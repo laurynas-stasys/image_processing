@@ -1,0 +1,36 @@
+﻿/* Content styling */
+.header 
+{
+    background: #DDD;
+}
+
+.content {
+    background: #BBB;
+    margin: 0 auto;
+    width: 800px;
+}
+
+.footer {
+    background: #EEE;
+}
+
+/* Image processor style */
+.my-canvas {
+    height: 750px;
+    width: 750px;
+    background: #A78;
+}
+
+.my-canvas, .image-input {
+    display: block;
+}
+
+.image-input {
+    margin: 0 auto;
+}
+
+.image-processor 
+{
+    background: #ABF;
+    position: relative;    
+}
